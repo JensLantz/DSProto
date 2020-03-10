@@ -1,0 +1,2 @@
+rootProject.name='DSProto'
+include ':app'
